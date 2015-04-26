@@ -25,7 +25,7 @@ The following are the steps performed by the R script.
   standing
   laying
 
-* The script also labels the data set with appropirate descriptive names and in the labels the underscores and brackets () are removed. The names of the attributes are similar to the following:
+* The script also labels the data set with appropirate descriptive names and in the labels the underscores and brackets () are removed. Below are some of the names of the attributes:
 
   tbodyacc Mean X 
   tbodyacc Mean Y 
@@ -34,6 +34,6 @@ The following are the steps performed by the R script.
   tbodyacc Std Y 
   tbodyacc Std Z 
   tgravityacc Mean X 
-  tgravityacc Mean- Y
+  tgravityacc Mean Y
 
 * Finally, the script creates a tidy data set with the average of each measurement for each activity and each subject. The final tidy dataset is saved as average_dataset.txt, that has a 180x68 data frame data.
