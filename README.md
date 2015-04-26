@@ -9,6 +9,6 @@
 
 * Step 3: In RStudio set the working directory to your local working directory using setwd() method
 
-* step 3: In RStudio run the script using source("run_analysis.R")
+* step 4: In RStudio run the script using source("run_analysis.R")
 
 * There are 30 subjects and 6 activities, so there will be 180 rows in the final dataset
