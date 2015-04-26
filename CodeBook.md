@@ -36,4 +36,4 @@ The following are the steps performed by the R script.
   tgravityacc Mean X
   and tgravityacc Mean Y
 
-* Finally, the script creates a tidy data set with the average of each measurement for each activity and each subject. The final tidy dataset is saved as average_dataset.txt, that has a 180x68 data frame data.
+* Finally, the script creates a tidy data set with the average of each measurement for each activity and each subject. The final tidy dataset is saved as average_dataset.txt that has a 180x68 data frame data.
